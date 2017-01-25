@@ -1,0 +1,1 @@
+txtfile = ("pythongsö.txt", "w")
