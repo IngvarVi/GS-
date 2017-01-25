@@ -1,3 +1,8 @@
 txtfile = open("pythongsö.txt", "w")
 txtfile.write("Hello world")
 txtfile.close()
+txtfile = open("pythongsö.txt", "a")
+txtfile.write("ein lína")
+txtfile.write("tvær línur")
+txtfile.write("þrjár línur")
+txtfile.close()
